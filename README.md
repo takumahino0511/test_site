@@ -1,4 +1,4 @@
-# shima-info.io
+# shima-info.io aaa
 
 # みんなの情報サイト
 
